@@ -1,5 +1,6 @@
 # Weather-app
 This is a weather app
+<br>
 It uses the weather.api to fetch data
-<d>
+<br>
 Author- Anmol
